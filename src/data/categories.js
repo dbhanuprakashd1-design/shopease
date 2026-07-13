@@ -7,22 +7,22 @@ const categories = [
   {
     id: 2,
     name: "Fashion",
-    image: "/src/assets/images/fashion.jpg",
+    image: "https://fashionbuzzer.com/wp-content/uploads/2016/02/ethnic-wear-online.jpg",
   },
   {
     id: 3,
     name: "Shoes",
-    image: "/src/assets/images/shoes.jpg",
+    image: "https://offlimits.co.in/cdn/shop/files/OCM-64305_1_1200x1200.jpg?v=1720259294",
   },
   {
     id: 4,
     name: "Furniture",
-    image: "/src/assets/images/furniture.jpg",
+    image: "https://asset.skoiy.com/9b80a6f781ff336f/ii7byimyokdg.jpg?w=970&q=90",
   },
   {
     id: 5,
     name: "Beauty",
-    image: "/src/assets/images/beauty.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPLVA1PZH3OFE_Wa3H3_TUI7b4vpA8OwbzJZh1tPamg&s=10",
   },
 ];
 
